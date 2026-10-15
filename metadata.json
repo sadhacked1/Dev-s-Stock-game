@@ -1,0 +1,6 @@
+{
+  "name": "MarketQuest",
+  "description": "Interactive stock market learning game and financial trading simulation with explainable market mechanics, guided missions, and real-time lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
